@@ -17,7 +17,7 @@ const sourceSans = Source_Sans_3({
 });
 
 export const metadata = {
-  title: "PowerFit Gym - Transform Your Body",
+  title: "Flex-Fire Gym - Transform Your Body",
   description: "Elite fitness training and world-class equipment",
 };
 
