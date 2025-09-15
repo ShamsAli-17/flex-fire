@@ -56,7 +56,7 @@ export default function Hero() {
         {/* Enhanced Description */}
         <p className="text-[clamp(1rem,2.5vw,1.25rem)] text-gray-200 mb-8 sm:mb-12 max-w-3xl mx-auto leading-relaxed font-medium">
           Join FlexFire Gym and experience <span className="text-red-400 font-semibold">elite training</span>, 
-          cutting-edge equipment, and a <span className="text-red-400 font-semibold">community of champions</span> 
+          cutting-edge equipment, and a <span className="text-red-400 font-semibold">community of champions </span> 
           that will push you beyond your limits.
         </p>
         
