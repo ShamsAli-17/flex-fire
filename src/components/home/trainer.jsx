@@ -6,7 +6,7 @@ export default function Trainers() {
       name: "Sarah Johnson",
       specialty: "Strength & Conditioning",
       experience: "8 years",
-      image: "/trainers/trainer-1.png",
+      image: "/trainer.jpg",
       bio: "Certified strength coach specializing in powerlifting and functional movement",
       social: {
         instagram: "#",
@@ -18,7 +18,7 @@ export default function Trainers() {
       name: "Mike Rodriguez",
       specialty: "HIIT & Boxing",
       experience: "6 years",
-      image: "/trainers/trainer-1.jpg",
+      image: "/trainer.jpg",
       bio: "Former professional boxer turned fitness trainer, expert in high-intensity workouts",
       social: {
         instagram: "#",
@@ -30,7 +30,7 @@ export default function Trainers() {
       name: "Emma Chen",
       specialty: "Yoga & Pilates",
       experience: "10 years",
-      image: "/trainers/trainer-1.webp",
+      image: "/trainer.jpg",
       bio: "Yoga instructor and wellness coach focused on mind-body connection",
       social: {
         instagram: "#",
